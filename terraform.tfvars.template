@@ -1,0 +1,5 @@
+name = "<servername>"
+env = "<sandbox|staging|production>"
+hcloud_token = "<API-Token>"
+location = "nbg1"
+server_type = "cx21"
